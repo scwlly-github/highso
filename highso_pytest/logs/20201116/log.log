@@ -1,0 +1,60 @@
+[2020-11-16 10:28:36] - INFO: --测试开始--
+[2020-11-16 10:28:36] - INFO: 第一步: 获取请求数据
+[2020-11-16 10:28:36] - INFO: 请求方法：post
+[2020-11-16 10:28:36] - INFO: 请求接口：http://192.168.1.85:21002/h/com.haixue.workshop.order.api.service.Crm4OrderService/saveCrmOrder
+[2020-11-16 10:28:36] - INFO: 请求数据：{'crmOrderCreateRequest': '{"goodsIds": 307500, "mobile": "18312340001", "createBy": 118813, "parentCategoryId": 7, "orderFrom": 5}'}
+[2020-11-16 10:28:36] - INFO: --测试结束--
+[2020-11-16 10:28:37] - INFO: --测试开始--
+[2020-11-16 10:28:37] - INFO: 第一步: 获取请求数据
+[2020-11-16 10:28:37] - INFO: 请求方法：post
+[2020-11-16 10:28:37] - INFO: 请求接口：http://192.168.1.85:21002/h/com.haixue.workshop.order.api.service.Crm4OrderService/saveCrmOrder
+[2020-11-16 10:28:37] - INFO: 请求数据：{'crmOrderCreateRequest': '{"goodsIds": 30750, "mobile": "18312340001", "createBy": 118813, "parentCategoryId": 7, "orderFrom": 5}'}
+[2020-11-16 10:28:37] - INFO: --测试结束--
+[2020-11-16 15:47:23] - INFO: --测试开始--
+[2020-11-16 15:47:23] - INFO: 第一步: 获取请求数据
+[2020-11-16 15:47:23] - INFO: 请求方法：post
+[2020-11-16 15:47:23] - INFO: 请求接口：http://192.168.1.85:21002/h/com.haixue.workshop.order.api.service.Crm4OrderService/saveCrmOrder
+[2020-11-16 15:47:23] - INFO: 请求数据：{'crmOrderCreateRequest': '{"goodsIds": 307500, "mobile": "18312340001", "createBy": 118813, "parentCategoryId": 7, "orderFrom": 5}'}
+[2020-11-16 15:47:23] - INFO: --测试结束--
+[2020-11-16 15:47:23] - INFO: --测试开始--
+[2020-11-16 15:47:23] - INFO: 第一步: 获取请求数据
+[2020-11-16 15:47:23] - INFO: 请求方法：post
+[2020-11-16 15:47:23] - INFO: 请求接口：http://192.168.1.85:21002/h/com.haixue.workshop.order.api.service.Crm4OrderService/saveCrmOrder
+[2020-11-16 15:47:23] - INFO: 请求数据：{'crmOrderCreateRequest': '{"goodsIds": 30750, "mobile": "18312340001", "createBy": 118813, "parentCategoryId": 7, "orderFrom": 5}'}
+[2020-11-16 15:47:23] - INFO: --测试结束--
+[2020-11-16 15:48:29] - INFO: --测试开始--
+[2020-11-16 15:48:29] - INFO: 第一步: 获取请求数据
+[2020-11-16 15:48:29] - INFO: 请求方法：post
+[2020-11-16 15:48:29] - INFO: 请求接口：http://192.168.1.85:21002/h/com.haixue.workshop.order.api.service.Crm4OrderService/saveCrmOrder
+[2020-11-16 15:48:29] - INFO: 请求数据：{'crmOrderCreateRequest': '{"goodsIds": 307500, "mobile": "18312340001", "createBy": 118813, "parentCategoryId": 7, "orderFrom": 5}'}
+[2020-11-16 15:48:29] - INFO: --测试结束--
+[2020-11-16 15:48:29] - INFO: --测试开始--
+[2020-11-16 15:48:29] - INFO: 第一步: 获取请求数据
+[2020-11-16 15:48:29] - INFO: 请求方法：post
+[2020-11-16 15:48:29] - INFO: 请求接口：http://192.168.1.85:21002/h/com.haixue.workshop.order.api.service.Crm4OrderService/saveCrmOrder
+[2020-11-16 15:48:29] - INFO: 请求数据：{'crmOrderCreateRequest': '{"goodsIds": 30750, "mobile": "18312340001", "createBy": 118813, "parentCategoryId": 7, "orderFrom": 5}'}
+[2020-11-16 15:48:29] - INFO: --测试结束--
+[2020-11-16 15:49:50] - INFO: --测试开始--
+[2020-11-16 15:49:50] - INFO: 第一步: 获取请求数据
+[2020-11-16 15:49:50] - INFO: 请求方法：post
+[2020-11-16 15:49:50] - INFO: 请求接口：http://192.168.1.85:21002/h/com.haixue.workshop.order.api.service.Crm4OrderService/saveCrmOrder
+[2020-11-16 15:49:50] - INFO: 请求数据：{'crmOrderCreateRequest': '{"goodsIds": 307500, "mobile": "18312340001", "createBy": 118813, "parentCategoryId": 7, "orderFrom": 5}'}
+[2020-11-16 15:49:50] - INFO: --测试结束--
+[2020-11-16 15:49:50] - INFO: --测试开始--
+[2020-11-16 15:49:50] - INFO: 第一步: 获取请求数据
+[2020-11-16 15:49:50] - INFO: 请求方法：post
+[2020-11-16 15:49:50] - INFO: 请求接口：http://192.168.1.85:21002/h/com.haixue.workshop.order.api.service.Crm4OrderService/saveCrmOrder
+[2020-11-16 15:49:50] - INFO: 请求数据：{'crmOrderCreateRequest': '{"goodsIds": 30750, "mobile": "18312340001", "createBy": 118813, "parentCategoryId": 7, "orderFrom": 5}'}
+[2020-11-16 15:49:50] - INFO: --测试结束--
+[2020-11-16 15:50:08] - INFO: --测试开始--
+[2020-11-16 15:50:08] - INFO: 第一步: 获取请求数据
+[2020-11-16 15:50:08] - INFO: 请求方法：post
+[2020-11-16 15:50:08] - INFO: 请求接口：http://192.168.1.85:21002/h/com.haixue.workshop.order.api.service.Crm4OrderService/saveCrmOrder
+[2020-11-16 15:50:08] - INFO: 请求数据：{'crmOrderCreateRequest': '{"goodsIds": 307500, "mobile": "18312340001", "createBy": 118813, "parentCategoryId": 7, "orderFrom": 5}'}
+[2020-11-16 15:50:08] - INFO: --测试结束--
+[2020-11-16 15:50:08] - INFO: --测试开始--
+[2020-11-16 15:50:08] - INFO: 第一步: 获取请求数据
+[2020-11-16 15:50:08] - INFO: 请求方法：post
+[2020-11-16 15:50:08] - INFO: 请求接口：http://192.168.1.85:21002/h/com.haixue.workshop.order.api.service.Crm4OrderService/saveCrmOrder
+[2020-11-16 15:50:08] - INFO: 请求数据：{'crmOrderCreateRequest': '{"goodsIds": 30750, "mobile": "18312340001", "createBy": 118813, "parentCategoryId": 7, "orderFrom": 5}'}
+[2020-11-16 15:50:08] - INFO: --测试结束--

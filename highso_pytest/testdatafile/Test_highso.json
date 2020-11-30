@@ -1,0 +1,17 @@
+{
+    "crmOrderCreateRequest":{"crmOrderCreateRequest":{
+    "goodsIds":307500,
+    "mobile":"18312340001",
+    "createBy":118813,
+    "parentCategoryId":7,
+    "orderFrom":5
+}},
+    "crmOrderCreateRequest_1":{"crmOrderCreateRequest": {
+        "goodsIds": 30750,
+        "mobile": "18312340001",
+        "createBy": 118813,
+        "parentCategoryId": 7,
+        "orderFrom": 5}}
+}
+
+
