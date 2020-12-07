@@ -13,7 +13,7 @@ from highso_pytest.common.httpSet import HttpMethod
 proDir = os.path.split(os.path.realpath(__file__))[0]
 file_name = os.path.join(proDir,r"/Users/scwlly/Desktop/automated_test/highso/highso_pytest/testdatafile/Test_highso.json")
 
-# @allure.feature("下单"
+# @allure.feature("下单")
 class Test_order(unittest.TestCase):
     def setUp(self):
         self.http = HttpMethod()
