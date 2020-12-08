@@ -1,5 +1,5 @@
 #!/usr/local/bin/python3.7
-# coding=utf-8
+# -*- coding: utf-8 -*-
 import allure
 import sys
 sys.path.append(r"/Users/scwlly/Desktop/automated_test/highso")
