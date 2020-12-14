@@ -1,6 +1,6 @@
 #coding=utf-8
 import sys
-sys.path.append(r"/Users/scwlly/Desktop/automated_test/Douban/")
+sys.path.append(r"/Users/scwlly/Desktop/automated_test/highso/")
 import configparser
 import os
 proDir = os.path.split(os.path.realpath(__file__))[0]
@@ -17,14 +17,6 @@ class ReadConfig:
         port = self.cf.get("HTTP", "port")
         base_url = protocol + '://' + ip + ':' + port
         return base_url
-
-
-    # def get_omp_url(self):
-    #     protocol = self.cf.get("HTTP", "protocol")
-    #     ip = self.cf.get("HTTP", "omp_ip")
-    #     port = self.cf.get("HTTP", "omp_port")
-    #     omp_url = protocol + '://' + ip + ':' + port
-    #     return omp_url
 
     def get_email(self, mail_key):
         email_value = self.cf.get("EMAIL", mail_key)
@@ -44,6 +36,8 @@ class ReadConfig:
         with config as conf:
             self.cf.write(conf)
         config.close()
+
+
 
 
 if __name__ == "__main__":

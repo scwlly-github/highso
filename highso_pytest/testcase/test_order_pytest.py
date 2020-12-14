@@ -77,4 +77,4 @@ class Test_order():
         self.log.info(message="断言")
 
 if __name__ == '__main__':
-    pytest.main(['test_order_pytest'])
+    pytest.main(['test_order_pytest.py'])
