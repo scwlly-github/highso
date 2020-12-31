@@ -1,7 +1,0 @@
-INFO     highso_pytest.common.myLog:myLog.py:87 [2020-12-11 11:55:09] - INFO: --测试开始--
-INFO     highso_pytest.common.myLog:myLog.py:87 [2020-12-11 11:55:09] - INFO: 获取请求数据
-INFO     highso_pytest.common.myLog:myLog.py:87 [2020-12-11 11:55:09] - INFO: 请求方法：post
-INFO     highso_pytest.common.myLog:myLog.py:87 [2020-12-11 11:55:09] - INFO: 请求接口：http://192.168.1.85:21002/h/com.haixue.workshop.order.api.service.Crm4OrderService/saveCrmOrder
-INFO     highso_pytest.common.myLog:myLog.py:87 [2020-12-11 11:55:09] - INFO: 请求数据：{'crmOrderCreateRequest': '{"goodsIds": 30750, "mobile": "18312340001", "createBy": 118813, "parentCategoryId": 7, "orderFrom": 5}'}
-INFO     highso_pytest.common.myLog:myLog.py:87 [2020-12-11 11:55:09] - INFO: 断言
-INFO     highso_pytest.common.myLog:myLog.py:87 [2020-12-11 11:55:09] - INFO: --测试结束--

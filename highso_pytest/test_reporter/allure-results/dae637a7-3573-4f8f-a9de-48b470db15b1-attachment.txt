@@ -1,7 +1,0 @@
-[2020-12-11 14:57:37] - INFO: --测试开始--
-[2020-12-11 14:57:37] - INFO: 获取请求数据
-[2020-12-11 14:57:37] - INFO: 请求方法：post
-[2020-12-11 14:57:37] - INFO: 请求接口：http://192.168.1.85:21002/h/com.haixue.workshop.order.api.service.Crm4OrderService/saveCrmOrder
-[2020-12-11 14:57:37] - INFO: 请求数据：{'crmOrderCreateRequest': '{"goodsIds": 307500, "mobile": "18312340001", "createBy": 118813, "parentCategoryId": 7, "orderFrom": 5}'}
-[2020-12-11 14:57:37] - INFO: 断言
-[2020-12-11 14:57:37] - INFO: --测试结束--
